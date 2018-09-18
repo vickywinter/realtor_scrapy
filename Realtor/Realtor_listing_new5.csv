@@ -1,0 +1,29 @@
+address,area_ft,bath_full,bath_half,beds,built_year,city,days_on_market,lot_ft,price_ft,property_type,school1,school2,school3,sold_date,sold_price,state,zip_code
+"1088 Foxglove Pl,","1,718",3,1,3,2015,San Jose,41,"1,216",769,Condo/Townhome/Row Home/Co-Op,6,2,NR,"June 12, 2018 ",1321000,CA,95131
+"6635 Catamaran St,","2,010",2,,4,1972,San Jose,59,"6,000",585,Single Family Home,5,7,8,"June 11, 2018 ",1175000,CA,95119
+"4326 Leigh Ave,","1,248",2,,3,1955,San Jose,32,"5,700",954,Single Family Home,9,8,9,"June 11, 2018 ",1190000,CA,95124
+"417 Camille Cir Unit 14,","1,812",2,1,2,1991,San Jose,54,"1,260",745,Condo/Townhome/Row Home/Co-Op,5,6,7,"June 11, 2018 ",1350000,CA,95134
+"6091 Calle De Amor,","1,490",2,1,2,1977,San Jose,48,"2,300",644,Condo/Townhome/Row Home/Co-Op,9,8,9,"June 11, 2018 ",960000,CA,95124
+"838 Salt Lake Dr,","2,725",3,,4,1985,San Jose,58,"6,100",506,Single Family Home,3,6,NR,"June 11, 2018 ",1380000,CA,95133
+"2544 Glenrio Dr,","2,132",4,,4,1965,San Jose,41,"5,824",535,Single Family Home,8,4,8,"June 11, 2018 ",1140000,CA,95121
+"6958 Grandwood Way,","2,760",3,,4,1980,San Jose,45,"8,100",679,Single Family Home,10,8,10,"June 11, 2018 ",1875000,CA,95120
+"224 Bellerose Dr,","1,705",3,,3,1947,San Jose,48,"9,825",827,Single Family Home,4,5,5,"June 11, 2018 ",1409800,CA,95128
+"2075 Purcell Pl,","2,082",2,1,4,2004,San Jose,33,"3,096",720,Single Family Home,6,6,2,"June 11, 2018 ",1500000,CA,95131
+"2628 Flagstone Dr,","1,712",2,,3,1974,San Jose,27,"6,270",818,Single Family Home,5,7,10,"June 11, 2018 ",1400000,CA,95132
+"3348 Walton Way,","1,904",2,1,4,1957,San Jose,28,"7,956",998,Single Family Home,7,7,7,"June 11, 2018 ",1900000,CA,95117
+"408 N 3rd St,","1,500",2,,3,1900,San Jose,48,"4,727",843,Single Family Home,3,3,NR,"June 11, 2018 ",1265000,CA,95112
+"272 Rhodes Ct,","1,787",1,1,3,1925,San Jose,34,"5,904",783,Single Family Home,4,3,7,"June 11, 2018 ",1400000,CA,95126
+"14906 Sutton Dr,","2,599",3,,5,1950,San Jose,20,0.27,731,Single Family Home,9,8,9,"June 11, 2018 ",1900000,CA,95124
+"91 Cedar Ln,","1,215",1,,3,1947,San Jose,,"8,100",241,Single Family Home,NR,4,5,"June 12, 2018 ",293000,CA,95127
+"969 Bellhurst Ave,",986,2,,2,1970,San Jose,,784,467,Condo/Townhome/Row Home/Co-Op,5,2,5,"June 12, 2018 ",460000,CA,95122
+"686 Whitewater Ct,","1,040",2,,2,1984,San Jose,69,"1,238",625,Condo/Townhome/Row Home/Co-Op,7,6,1,"June 12, 2018 ",650000,CA,95133
+"5296 Running Bear Dr,","1,358",2,,3,1977,San Jose,,"7,800",725,Single Family Home,6,4,9,"June 12, 2018 ",985000,CA,95136
+"1361 E San Fernando St,","1,620",,,3,1950,San Jose,69,"5,480",664,Multi-Family Home,3,NR,4,"June 12, 2018 ",1075000,CA,95116
+"6276 Ginashell Cir,","2,039",3,,4,1996,San Jose,,"4,000",638,Single Family Home,8,7,5,"June 12, 2018 ",1300000,CA,95119
+"1899 Crinan Dr,","1,238",2,,3,1964,San Jose,27,"8,500",654,Single Family Home,6,3,2,"June 12, 2018 ",810000,CA,95122
+"343 Colville Dr,","1,683",2,,4,1968,San Jose,60,"6,825",576,Single Family Home,3,8,5,"June 12, 2018 ",970000,CA,95123
+"3177 Julio Ave,","1,060",1,,3,1954,San Jose,"32
+            
+              69","5,100",895,Single Family Home,6,7,8,"June 12, 2018 ",949000,CA,95124
+"2856 Alwood Ct,","1,380",2,,4,1979,San Jose,39,"6,000",815,Single Family Home,7,8,10,"June 12, 2018 ",1125000,CA,95148
+"6130 Monterey Hwy,","1,960",2,,3,2000,San Jose,46,,189,Mfd/Mobile Home,7,7,9,"June 12, 2018 ",370000,CA,95138

@@ -1,0 +1,6 @@
+address,area_ft,bath_full,bath_half,beds,built_year,city,days_on_market,lot_ft,price_ft,property_type,school1,school2,school3,sold_date,sold_price,state,zip_code
+"25 Park Village Pl,","2,922",2,1,4,1979,San Jose,60,0.32,342,Single Family Home,6,4,9,"July  3, 2018 ",1000000,CA,95136
+"2925 Florence Ave Apt 24,",960,1,1,3,1964,San Jose,"52
+            
+              48",960,542,Condo/Townhome/Row Home/Co-Op,5,4,5,"July  3, 2018 ",520000,CA,95127
+"4556 Samson Way,","2,239",3,,3,2009,San Jose,35,"4,800",728,Single Family Home,9,8,8,"July  3, 2018 ",1630777,CA,95124

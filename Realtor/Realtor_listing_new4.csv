@@ -1,0 +1,49 @@
+address,area_ft,bath_full,bath_half,beds,built_year,city,days_on_market,lot_ft,price_ft,property_type,school1,school2,school3,sold_date,sold_price,state,zip_code
+"1090 Walnut Woods Ct,","1,344",2,,4,1985,San Jose,37,0.26,685,Single Family Home,5,2,5,"June 15, 2018 ",920000,CA,95122
+"6747 Mount Pakron Dr,","2,080",3,,4,1969,San Jose,30,"7,995",841,Single Family Home,10,8,10,"June 14, 2018 ",1750000,CA,95120
+"1456 Quartz Way,","1,713",3,,4,1961,San Jose,27,"7,210",919,Single Family Home,8,5,8,"June 14, 2018 ",1575000,CA,95118
+"1387 De Altura Cmn,","1,682",2,1,2,2006,San Jose,38,"1,112",588,Condo/Townhome/Row Home/Co-Op,4,6,7,"June 14, 2018 ",988888,CA,95126
+"3268 Rocky Water Ln,","1,582",2,,3,1985,San Jose,44,"1,363",569,Condo/Townhome/Row Home/Co-Op,5,4,8,"June 14, 2018 ",900000,CA,95148
+"8437 Chenin Blanc Ln,","1,803",2,,2,1978,San Jose,26,"3,360",499,Condo/Townhome/Row Home/Co-Op,9,9,10,"June 14, 2018 ",900000,CA,95135
+"3429 Woodside Ct,","1,787",2,1,4,1980,San Jose,29,0.23,644,Single Family Home,8,4,8,"June 14, 2018 ",1150000,CA,95121
+"2473 Foxdale Dr,","1,289",2,,3,1968,San Jose,,"5,500",289,Single Family Home,3,4,4,"June 15, 2018 ",372500,CA,95122
+"210 Giddings Ct,","2,137",3,,4,1977,San Jose,66,"6,050",360,Single Family Home,6,6,8,"June 15, 2018 ",770000,CA,95139
+"4696 Ventura Ave,","1,363",2,,3,1966,San Jose,1,"6,400",598,Single Family Home,2,4,9,"June 15, 2018 ",815000,CA,95111
+"1383 Santa Fe Dr,","1,408",2,,4,1963,San Jose,66,"6,000",639,Single Family Home,4,5,8,"June 15, 2018 ",900000,CA,95118
+"5673 Holland Ln,","1,252",2,,4,1960,San Jose,66,"6,000",719,Single Family Home,9,8,8,"June 15, 2018 ",900000,CA,95118
+"260 Los Palmos Way,","2,181",3,,5,1970,San Jose,66,"6,000",459,Single Family Home,8,7,NR,"June 15, 2018 ",1000000,CA,95119
+"967 Arnold Way,","2,028",2,,4,1948,San Jose,,"9,638",727,Single Family Home,5,5,5,"June 15, 2018 ",1475000,CA,95128
+"1970 Tampa Way,","1,669",2,,4,1968,San Jose,42,"5,712",464,Single Family Home,5,3,4,"June 15, 2018 ",775000,CA,95122
+"1030 Vine St,","1,511",2,,3,1998,San Jose,17,"5,880",534,Single Family Home,4,6,6,"June 15, 2018 ",806688,CA,95110
+"411 Lewis Rd,","1,040",2,,2,1981,San Jose,176,,152,Mfd/Mobile Home,6,6,5,"June 15, 2018 ",158000,CA,95111
+"2013 Fruitdale Ave,",919,1,,2,1950,San Jose,40,"6,000","1,034",Single Family Home,5,5,5,"June 15, 2018 ",950000,CA,95128
+"270 Umbarger Rd,","1,040",2,,3,1993,San Jose,146,,188,Mfd/Mobile Home,6,6,5,"June 15, 2018 ",195000,CA,95111
+"1608 Lincoln Ave,","2,072",3,,5,1909,San Jose,50,"6,552",724,Multi-Family Home,7,6,6,"June 15, 2018 ",1500000,CA,95125
+"5450 Monterey Rd,","1,520",2,,2,1975,San Jose,154,,135,Mfd/Mobile Home,3,4,9,"June 15, 2018 ",205000,CA,95111
+"136 Sunnyslope Ave,",360,1,,1,1945,San Jose,13,"6,750","1,514",Single Family Home,4,4,NR,"June 15, 2018 ",545000,CA,95127
+"3172 Oakbridge Dr,","1,440",2,,2,1978,San Jose,72,,122,Mfd/Mobile Home,4,4,8,"June 15, 2018 ",175000,CA,95121
+"1178 Oakview Rd,","1,074",1,1,2,1972,San Jose,31,"3,486",661,Single Family Home,6,6,8,"June 15, 2018 ",710000,CA,95121
+"615 Lanfair Dr,","1,603",2,,4,1969,San Jose,50,"6,600",490,Single Family Home,7,5,NR,"June 15, 2018 ",785000,CA,95136
+"1626 Marsh St,","1,200",2,,3,1958,San Jose,35,"5,300",708,Single Family Home,5,3,4,"June 15, 2018 ",850000,CA,95122
+"165 Blossom Hill Rd,","1,560",2,,3,1997,San Jose,107,,183,Mfd/Mobile Home,5,4,9,"June 15, 2018 ",286000,CA,95123
+"1609 Clovis Ave,","1,220",2,,3,1957,San Jose,32,"7,020",853,Single Family Home,8,8,9,"June 15, 2018 ",1040500,CA,95124
+"1345 Palm St,","1,118",2,,2,1986,San Jose,17,"1,500",581,Condo/Townhome/Row Home/Co-Op,8,6,6,"June 15, 2018 ",650000,CA,95110
+"2634 Meridian Ave,","1,678",2,1,4,1961,San Jose,49,"6,649",676,Single Family Home,7,6,6,"June 15, 2018 ",1135000,CA,95124
+"2311 Sunny Vista Dr,",834,1,,2,1950,San Jose,52,"5,841","1,409",Single Family Home,4,6,7,"June 15, 2018 ",1175000,CA,95128
+"1007 Twin Brook Dr,","1,571",2,,3,1964,San Jose,34,"6,820",904,Single Family Home,7,6,6,"June 15, 2018 ",1420000,CA,95126
+"6924 Lenwood Way,","1,540",2,,3,1972,San Jose,31,0.24,"1,061",Single Family Home,9,8,10,"June 15, 2018 ",1633500,CA,95120
+"5977 Mohawk Dr,","1,173",2,,3,1967,San Jose,30,"6,500",878,Single Family Home,6,8,NR,"June 15, 2018 ",1030000,CA,95123
+"4609 Sally Dr,","1,144",2,,3,1958,San Jose,45,"7,750","1,145",Single Family Home,9,8,9,"June 15, 2018 ",1310000,CA,95124
+"1140 Glenmeadow Ct,","1,260",2,1,3,1971,San Jose,38,"1,020",825,Condo/Townhome/Row Home/Co-Op,7,6,6,"June 15, 2018 ",1040000,CA,95125
+"801 S Winchester Blvd Apt 2202,",986,2,,2,2005,San Jose,37,892,"1,077",Condo/Townhome/Row Home/Co-Op,6,5,5,"June 15, 2018 ",1061800,CA,95128
+"856 Bucks Lake Ct,",734,1,,1,1995,San Jose,12,870,775,Condo/Townhome/Row Home/Co-Op,4,6,NR,"June 15, 2018 ",568750,CA,95123
+"697 Cree Dr,","1,372",2,,3,1968,San Jose,39,"6,496",867,Single Family Home,7,8,NR,"June 15, 2018 ",1190000,CA,95123
+"510 Saddle Brook Dr,","1,499",2,,3,2015,San Jose,44,,207,Mfd/Mobile Home,6,4,9,"June 15, 2018 ",310000,CA,95136
+"3447 Marten Ave,","2,928",2,1,6,1978,San Jose,168,"5,610",325,Single Family Home,6,3,5,"June 15, 2018 ",950518,CA,95148
+"899 Salt Lake Dr,","1,904",2,1,4,1985,San Jose,58,"3,500",596,Single Family Home,3,6,NR,"June 15, 2018 ",1135000,CA,95133
+"470 Boynton Ave,","29,716",,,9,1968,San Jose,129,,478,Multi-Family Home,6,5,5,"June 15, 2018 ",14200000,CA,95117
+"30 E Julian St Unit 314,",838,1,,1,2000,San Jose,49,838,751,Condo/Townhome/Row Home/Co-Op,3,5,NR,"June 15, 2018 ",629500,CA,95112
+"421 Elizabeth St,",880,1,,2,1909,San Jose,35,"2,200",825,Single Family Home,3,5,7,"June 15, 2018 ",726000,CA,95112
+"2862 Westbranch Dr,","1,363",2,,3,1965,San Jose,36,"6,090",698,Single Family Home,5,8,10,"June 15, 2018 ",952000,CA,95148
+"612 Cayuga Dr,","1,565",2,,3,1968,San Jose,30,"7,500",740,Single Family Home,7,8,NR,"June 15, 2018 ",1157500,CA,95123
+"752 Delmas Ave,","1,271",2,,3,1914,San Jose,29,"5,382",854,Single Family Home,2,7,7,"June 15, 2018 ",1086000,CA,95125
